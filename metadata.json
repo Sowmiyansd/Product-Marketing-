@@ -1,0 +1,6 @@
+{
+  "name": "Notion Product Analysis & PMM Teardown",
+  "description": "Product analysis, customer pain points, and positioning teardown of Notion with an interactive GTM strategy simulator by Sowmiya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
